@@ -11,7 +11,9 @@
 <div size='20px'> Hi! My name is Rodrigo Toledo. Thank You for taking the time to view my GitHub Profile
 </div>
 
-<h2> About Me <img src = "https://media2.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=ecf05e47oqbbtdw8qopuo9o6of3b7arws5uljtzsuhogmpd2&rid=giphy.gif&ct=g?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me </h2>
+
+<img src = "https://media2.giphy.com/media/7NoNw4pMNTvgc/giphy.gif?cid=ecf05e47oqbbtdw8qopuo9o6of3b7arws5uljtzsuhogmpd2&rid=giphy.gif&ct=g?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
