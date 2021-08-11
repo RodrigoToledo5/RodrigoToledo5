@@ -16,7 +16,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on a pokemon game and on a group project in Henry
+- 🔭 I’m currently working on a pokemon game and on a Team project in Henry
 
 - 🌱 I’m currently learning Typescript and React Native 
 
