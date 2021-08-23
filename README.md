@@ -16,6 +16,8 @@
 
 </p>
 <div size='20px'> My name is Rodrigo Toledo. 
+</div>
+<div size='20px'>
 Thank You for taking the time to view my GitHub Profile
 </div>
 <h2> Project movies: </h2>
