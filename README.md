@@ -23,11 +23,6 @@ Thank You for taking the time to view my GitHub Profile
 <h2> Project movies: </h2>
 
 
-https://user-images.githubusercontent.com/83225899/130481483-e43660e4-6fb7-4e90-b6c0-ea5470651777.mp4
-
-
-
-https://user-images.githubusercontent.com/83225899/130481570-afd83810-4a41-4cf6-8697-af857142fde8.mp4
 
 
 
@@ -42,6 +37,14 @@ https://user-images.githubusercontent.com/83225899/130481570-afd83810-4a41-4cf6-
 - 🌱 I’m currently learning Typescript and React Native 
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
+
+
+https://user-images.githubusercontent.com/83225899/130481483-e43660e4-6fb7-4e90-b6c0-ea5470651777.mp4
+
+
+
+https://user-images.githubusercontent.com/83225899/130481570-afd83810-4a41-4cf6-8697-af857142fde8.mp4
+
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
