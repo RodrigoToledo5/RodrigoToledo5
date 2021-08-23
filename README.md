@@ -10,8 +10,9 @@
 <div size='20px'> My name is Rodrigo Toledo. Thank You for taking the time to view my GitHub Profile
 </div>
 <h2> Project videos: </h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OY1ut1IWHyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<video width="320" height="240" controls>
+  <source src="https://www.youtube.com/watch?v=OY1ut1IWHyY" type="video/mp4">
+</video>
 <h2> About Me: </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
