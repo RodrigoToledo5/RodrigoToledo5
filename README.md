@@ -34,7 +34,7 @@ Thank You for taking the time to view my GitHub Profile
 
 - 🔭 I’m currently working on a pokemon game and on a Team project in Henry
 
-- 🌱 I’m currently learning Typescript and React Native 
+- 🌱 I’m currently learning Typescript, Nextjs and React Native.
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
